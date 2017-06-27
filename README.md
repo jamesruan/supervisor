@@ -1,2 +1,3 @@
 # supervisor
-a erlang-like supervisor for go
+An Erlang-like supervisor for go
+
